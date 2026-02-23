@@ -17,7 +17,7 @@ public class EntradaDeDado {
             resultado = num1 + num2;
             System.out.println("Valor 1: " + num1 + "\nValor 2: " + num2 + "\nSomatório: " + resultado);
         } catch (Exception e) {
-            System.out.println("Fomato de número incorreto.");;
+            System.out.println("Fomato de número incorreto.");
         }
 
     }
